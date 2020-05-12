@@ -1,7 +1,7 @@
 # Dinosaur_Game
 In this project I have manage to automate the chrome dinosaur through image processing
 
-#Packages
+# Packages
 
 pyautogui:- It help us to press the required key automatically
 
